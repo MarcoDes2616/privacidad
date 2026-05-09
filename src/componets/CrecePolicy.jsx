@@ -78,12 +78,13 @@ const CrecePolicy = () => {
         <p>
           Si tiene preguntas sobre esta política o el manejo de datos, puede contactarnos en:
           <br />
-          <strong>Email:</strong> soporte@florayfaunaartesanal.com
+          <strong>Email:</strong>
+          innovapos.admin@gmail.com
         </p>
       </section>
 
       <footer style={{ marginTop: '50px', fontSize: '0.8rem', textAlign: 'center', color: '#888' }}>
-        &copy; {new Date().getFullYear()} Flora y Fauna Artesanal - Crece Ventas. Todos los derechos reservados.
+        &copy; {new Date().getFullYear()} Distribuidora Crece - Crece Ventas. Todos los derechos reservados.
       </footer>
     </div>
   );
